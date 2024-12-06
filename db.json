@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "d3",
+      "text": "text",
+      "completed": true
+    },
+    {
+      "id": "3eced1d6-2f8c-4063-adf7-6f1d43a59f0b",
+      "text": "안녕",
+      "completed": false
+    }
+  ]
+}
